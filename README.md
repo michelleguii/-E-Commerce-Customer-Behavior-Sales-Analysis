@@ -26,7 +26,7 @@ The metrics and takeaways listed above have dynamically updated from the baselin
 * **Payment Demographics:** Credit cards are the preferred payment method for consumers, securing a 42% share of total revenue.
 
 
-### Strategic Recommendations
+### Recommendations
 To maximize return on investment, the business should immediately allocate 70% of its local marketing and inventory budgets exclusively to the high-performing hubs of Istanbul, Ankara, and Izmir. **why 70%?** Because if you look at the data, these three cities alone generate 11.35M in sales, which is exactly 52% of the company's total revenue. Allocating 70% of the budget gives these top-tier conversion hubs an aggressive, disproportionate growth push, while leaving a safe 30% left over to sustain the other 6 cities. 
 
 Because revenue is heavily reliant on** mobile tech** buyers, the development team needs to prioritize mobile-first user interface upgrades and push-notification campaigns specifically tailored for** electronics **launches. 
