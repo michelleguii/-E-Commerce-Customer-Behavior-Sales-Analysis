@@ -1,0 +1,1 @@
+This is the file from Kaggle containing the synthetic Turkish e-commerce data used to drive this entire analysis: (https://www.kaggle.com/datasets/umuttuygurr/e-commerce-customer-behavior-and-sales-analysis-tr/discussion/613834)
