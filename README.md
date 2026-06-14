@@ -15,10 +15,8 @@ This project analyzes e-commerce customer behavior and sales performance using M
 
 <img width="1165" height="556" alt="image" src="https://github.com/user-attachments/assets/7bf0ca18-fd18-471a-b620-6e5e17dfe7e4" />
 The metrics and takeaways listed above have dynamically updated from the baseline view because the slicers have been modified in this screenshot.
-## 📊 E-Commerce Customer Behavior & Sales Analysis
 
-Here is a summary of the key findings and strategic recommendations derived from the data analysis dashboard shown in `image_3a7dbe.jpg`.
-
+## E-Commerce Customer Behavior & Sales Analysis
 ### Key Insights
 * **Total Performance:** The platform generated 21,779,052.59 in total revenue across 17,049 transactions with a stable customer rating of 3.90.
 * **Product Leadership:** Electronics is the dominant product category on the platform, single-handedly generating 10.48M in revenue.
